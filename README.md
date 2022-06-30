@@ -1,2 +1,2 @@
-# java
-"생활코딩"
+# TIL
+Today I Learn
